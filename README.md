@@ -37,6 +37,7 @@
 
 ### Решение 3
 
+![2](https://github.com/znak72/SHD2/blob/main/mem1.jpg)
 ---
 
 ### Задание 4. Запись данных в Redis
